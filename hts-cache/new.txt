@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+11:10:28	1150094/1150094	---MCZ	200	added ('OK')	text/html	date:Fri,%2011%20Nov%202022%2010:00:19%20GMT	https://finanzvergleich.com/kostenloses-girokonto/girokonto-vergleich/	C:/Users/neelu/Desktop/InsideMarketing/Techchallenge/finanzvergleich.com/kostenloses-girokonto/girokonto-vergleich/index.html	(from )
+11:10:29	424/424	---M--	200	added ('OK')	text/plain	etag:%226298b7d6-1a8%22	https://finanzvergleich.com/robots.txt		(from )
